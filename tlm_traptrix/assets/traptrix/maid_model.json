@@ -1,0 +1,74 @@
+{
+	"pack_name": "{maid_pack.traptrix.name}",
+	"model_list": [
+		{
+			"model_id": "traptrix:traptrix_sera",
+			"description": ["{model.traptrix.traptrix_sera.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_allomerus",
+			"description": ["{model.traptrix.traptrix_allomerus.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_arachnocampa",
+			"description": ["{model.traptrix.traptrix_arachnocampa.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_atrax",
+			"description": ["{model.traptrix.traptrix_atrax.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_atypus",
+			"description": ["{model.traptrix.traptrix_atypus.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_cularia",
+			"description": ["{model.traptrix.traptrix_cularia.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_dionaea",
+			"description": ["{model.traptrix.traptrix_dionaea.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_genlisea",
+			"description": ["{model.traptrix.traptrix_genlisea.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_holeutea",
+			"description": ["{model.traptrix.traptrix_holeutea.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_mantis",
+			"description": ["{model.traptrix.traptrix_mantis.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_myrmeleo",
+			"description": ["{model.traptrix.traptrix_myrmeleo.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_nepenthes",
+			"description": ["{model.traptrix.traptrix_nepenthes.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_pinguicula",
+			"description": ["{model.traptrix.traptrix_pinguicula.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_pudica",
+			"description": ["{model.traptrix.traptrix_pudica.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_rafflesia",
+			"description": ["{model.traptrix.traptrix_rafflesia.desc}"]
+		},
+		{
+			"model_id": "traptrix:traptrix_vesiculo",
+			"description": ["{model.traptrix.traptrix_vesiculo.desc}"]
+		}
+	],
+	"version": "1.0.0",
+	"author": ["bck6d03"],
+	"date": "2025-06-27",
+	"icon": "traptrix:textures/maid_icon.png",
+	"description": ["{maid_pack.traptrix.desc}"]
+}
